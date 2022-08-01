@@ -15,18 +15,16 @@
   font-size: 17px;
 }
 
-/* Add an active class to highlight the current page */
 .active {
   background-color: #04AA6D;
   color: white;
 }
 
-/* Hide the link that should open and close the topnav on small screens */
+
 .topnav .icon {
   display: none;
 }
 
-/* Dropdown container - needed to position the dropdown content */
 .dropdown {
   float: left;
   overflow: hidden;

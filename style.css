@@ -19,6 +19,9 @@
   font-family: Monospace;
   color: white;
 }
+span{
+  color: yellow;
+}
 
 
 .topnav .icon {

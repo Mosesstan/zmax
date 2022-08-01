@@ -19,10 +19,6 @@
   font-family: Monospace;
   color: white;
 }
-span{
-  color: yellow;
-}
-
 
 .topnav .icon {
   display: none;
@@ -33,7 +29,6 @@ span{
   overflow: hidden;
 }
 
-/* Style the dropdown button to fit inside the topnav */
 .dropdown .dropbtn {
   font-size: 17px;
   border: none;

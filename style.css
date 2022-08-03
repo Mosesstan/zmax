@@ -190,12 +190,13 @@ img {
 div .btn-container{  
 text-align: center;  
 border: 7px solid red;  
-width: 300px;  
-height: 200px;  
+width: 40px;  
+height: 40px;  
 padding-top: 100px;  
-background-color: #6f42c1;
+
 }  
 #btn{  
 font-size: 25px;  
 color: black;
+background-color: #6f42c1;
 }  

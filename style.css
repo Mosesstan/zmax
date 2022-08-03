@@ -187,7 +187,7 @@ img {
   .text {font-size: 11px}
 }
 /*slide show ends here*/
-button .get_start{
+.get_start{
   background-color: #6f42c1;
   color: black;
 }
